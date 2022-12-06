@@ -1,4 +1,4 @@
-package com.composebottomsheet.ui.theme
+package com.composebottomsheetandnavdrawer.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle

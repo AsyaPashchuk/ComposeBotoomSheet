@@ -1,4 +1,4 @@
-package com.composebottomsheet.ui.theme
+package com.composebottomsheetandnavdrawer.ui.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material.MaterialTheme

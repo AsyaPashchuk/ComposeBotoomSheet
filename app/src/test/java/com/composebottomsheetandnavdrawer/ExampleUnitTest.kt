@@ -1,4 +1,4 @@
-package com.composebottomsheet
+package com.composebottomsheetandnavdrawer
 
 import org.junit.Test
 
